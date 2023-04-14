@@ -21,7 +21,3 @@ and delivery preferences for a seamless checkout experience..
 ![Screenshot (15)](https://user-images.githubusercontent.com/72156896/228057867-ad82164c-c1cd-48c2-845f-d3794b794026.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/72156896/228057898-3bfd5efe-2dcd-4c96-b6ed-a5a45f03cf3b.png)
 
-
-
-# video link
-https://www.linkedin.com/posts/vikash-chand28_oasisinfobyte-oasisinfobyte-activity-7046230972501012480-PEtV?utm_source=share&utm_medium=member_desktop
