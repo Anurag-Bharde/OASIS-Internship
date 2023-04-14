@@ -1,0 +1,51 @@
+
+
+.hi {
+    height: 80vh;
+    
+    
+    
+    padding: 30rem 20rem;
+ 
+    background-color: rgb(244, 32, 71);
+
+
+
+  }
+  body{
+    background-color: rgb(244, 32, 71);
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    
+}
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+    font-size: large;
+    color: black;
+}
+
+.form-body > *{
+    padding: 10px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}

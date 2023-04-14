@@ -1,0 +1,79 @@
+
+.dta{
+    display: flex;
+       
+       flex-wrap: wrap;
+        margin-top: 0px;
+        justify-content: space-between;
+        height: 100vh;
+        
+        padding-top: 10rem;
+        margin: auto 10rem;
+        
+    
+    
+    
+    }
+    
+    
+
+    .pizzaa-body{
+        width: 94%;
+       
+        padding:3%;
+        display: flex;
+        flex-wrap: wrap;
+        overflow-y: auto;
+        justify-content: space-between;
+        align-items: center;
+       
+    
+    }
+    
+    .pizzaa-card{
+        width: 15%;
+        height: 30%;
+        border-radius: 20px;
+        background-color: #d2e7ff;
+        border:1px solid rgba(rgb(202, 141, 141), green, blue, 0.18);
+        padding: 1%;
+        margin-bottom: 2%;
+        
+        
+        
+    }   
+    
+    .pizzaa-text{
+        color: rgb(0, 0, 0);
+        
+    
+    }
+    
+    .pizzaa-image{
+        width: 70%;
+        border: 20px;
+        height: 40%;
+    }
+    
+    
+    .attributes{
+        display: flex;
+        flex-wrap: wrap;
+        overflow-y: auto;
+        justify-content: space-between;
+       
+    
+    }
+    
+    .btn{
+       
+        border-radius: 1rem;
+        background-color: rgb(6, 1, 10);
+        color: white;
+        height: 20px;
+    }
+    
+    .btn:hover{
+        background-color: rgb(182, 150, 211);
+    }
+    

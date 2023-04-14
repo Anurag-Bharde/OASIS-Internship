@@ -1,0 +1,20 @@
+
+
+.datapizza{
+display: flex;
+  
+   flex-wrap: wrap;
+    margin-top: 0px;
+    justify-content: space-between;
+    height: 100vh;
+    
+    padding-top: 10rem;
+   
+    margin: 0 10rem;
+
+   
+
+
+}
+
+
