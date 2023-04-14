@@ -1,0 +1,77 @@
+.header {
+    background-color: #094c7e;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #081c32;
+    padding: 10px;
+  }
+  
+  .navbar a {
+    float: left;
+    color: #f3f6f1;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    background-color: #10918f;
+    color: #c51616;
+  }
+  
+  .hero-image {
+    background-image: url('college.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .hero-text h2 {
+    font-size: 40px;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .content {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 20px;
+    padding: 10px;
+  }
+  
+  .footer {
+    background-color:aqua
+  }
